@@ -1,0 +1,6 @@
+{
+  "name": "Homeaglow Hubstaff Wise Training Simulator",
+  "description": "Interactive demo training simulator to practice connecting a Wise account to Hubstaff for Homeaglow payroll and contractor payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
